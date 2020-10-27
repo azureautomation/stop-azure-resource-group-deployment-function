@@ -1,0 +1,20 @@
+{
+    "Author": "Ben Wilkinson",
+    "ContentSize": 1244,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/stop-azure-resource-group-deployment-function/master/Stop-AzureRMDeploy.ps1",
+    "DownloadCount": 613,
+    "Id": "Stop-Azure-Resource-Group-867ad678",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 467,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2018-6-24T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script stops an RG deployment . . \u00a0It is the stop script that goes along with this:\u00a0https://gallery.technet.microsoft.com/scriptcenter/Azure-Resource-Group-6ee2c700\u00a0Stop-AzureRMDeploy -DP D1This will provide an out-gridview pop up to select the deployments that you wan",
+    "Title": "Stop Azure Resource Group Deployment Function",
+    "UpdatedDate": "2018-6-24T00:00:00",
+    "Url": "https://github.com/azureautomation/stop-azure-resource-group-deployment-function",
+    "UserTags": "ARM, Resource Group Deployments, Azure Template Deployments"
+}
